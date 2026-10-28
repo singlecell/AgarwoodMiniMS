@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite the associated research article when using this method."
+title: "AgarwoodMiniMS"
+type: software
+version: 0.1.5
+license: MIT
+authors:
+  - name: "AgarwoodMiniMS contributors"
+preferred-citation:
+  type: article
+  title: "On-Site Analysis and Rapid Authentication of Valuable Agarwood Samples by Paper Capillary Spray Miniature Mass Spectrometry"
+  authors:
+    - {family-names: Xie, given-names: Yanqiao}
+    - {family-names: Huang, given-names: Shengqi}
+    - {family-names: Zhang, given-names: Qian}
+    - {family-names: Zhang, given-names: Siyu}
+    - {family-names: Han, given-names: Zhuzhen}
+    - {family-names: Yu, given-names: Jinliang}
+    - {family-names: Wang, given-names: Xingyu}
+    - {family-names: Chen, given-names: Kaixian}
+    - {family-names: Wang, given-names: Zhengtao}
+    - {family-names: Li, given-names: Linnan}
+    - {family-names: Yang, given-names: Li}
+  journal: "Journal of Analysis and Testing"
+  year: 2025
+  volume: 9
+  start: 61
+  end: 70
+  doi: "10.1007/s41664-024-00331-0"

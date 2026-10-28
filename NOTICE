@@ -1,0 +1,6 @@
+AgarwoodMiniMS reorganizes the agarwood PCS-mini MS analysis workflow associated with Xie et al., Journal of Analysis and Testing 9, 61-70 (2025), DOI 10.1007/s41664-024-00331-0.
+The article credits Xingyu Wang (software) and Linnan Li (conceptualization, software and other roles).
+This distribution contains refactored code, demonstration spectral tables from the paper, and synthetic development fixtures. Original serialized models, article PDFs are not included. The MIT license applies to the software. The DEMO spectral tables come from the associated paper.
+NumPy, pandas, scikit-learn, joblib, matplotlib and their dependencies are provided under their respective licenses.
+
+The README includes Figure 1 from Xie et al. (2025), DOI 10.1007/s41664-024-00331-0. This third-party figure is excluded from the software MIT license; the original rights apply.

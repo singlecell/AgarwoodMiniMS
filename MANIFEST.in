@@ -1,0 +1,15 @@
+include README.zh-CN.md CITATION.cff NOTICE
+recursive-include docs *.md
+recursive-include tests/fixtures *.csv
+recursive-include scripts *.py
+recursive-include tests *.py
+include public_files.json requirements-tested.txt start_app.bat
+recursive-include .github *.yml
+include .gitignore
+
+include requirements-build-windows.txt
+recursive-include third_party *.md *.txt
+
+recursive-include demo *.csv *.md
+
+recursive-include docs/images *.png
